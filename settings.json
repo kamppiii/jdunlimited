@@ -4,7 +4,7 @@
             "windows": "{Home}\\AppData\\Roaming\\openparty\\",
             "linux": "{Home}/.openparty/"
         },
-        "port": 443,
+        "port": 3000,
         "forcePort": true,
         "isPublic": true,
         "enableSSL": true,
