@@ -5,11 +5,11 @@
             "linux": "{Home}/.openparty/"
         },
         "port": 80,
-        "forcePort": false,
+        "forcePort": true,
         "isPublic": true,
         "enableSSL": true,
-        "domain": "jdp.justdancenext.xyz",
-        "modName": "Just Dance Unlimited Mod",
+        "domain": "jdunlimited.cofilica.workers.dev",
+        "modName": "Just Dance Unlimited",
         "serverstatus": {
             "isMaintenance": false,
             "channel": "prod"
